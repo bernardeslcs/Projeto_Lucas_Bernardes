@@ -7,4 +7,6 @@ class A:
         print ('MA1')
     def MA2(self):
         print ('MA2')
-#Classe Criada 
+    def MA3(self):
+        print("Alteracao a classe A apartir do clone")
+
