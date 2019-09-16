@@ -7,3 +7,4 @@ class A:
         print ('MA1')
     def MA2(self):
         print ('MA2')
+#Classe Criada 

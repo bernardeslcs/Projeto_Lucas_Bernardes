@@ -7,3 +7,5 @@ class B:
         print ('MB1')
     def MB2(self):
         print ('MB2')    
+
+#Classe Criada 
